@@ -58,12 +58,11 @@
                                 <a target="_blank" href="https://iosquestions.com">Ios Questions</a>
                             </li>
                             <li>
-                                <a target="_blank" href="https://laravelquestions.com">Laravel Questions</a>
+                                <a target="_blank" title="laravel questions" href="https://laravelquestions.com">Laravel Questions</a>
                             </li>
 							  <li>
                                 <a target="_blank" href="https://jobdisrupt.com">Job Disrupt</a>
                             </li>
-
                         </ul>
                     </div>
                 </div>
@@ -101,7 +100,7 @@
             </div>
         </div>
         <div class="footer-bottom cl-white">
-            <p class="cl-white">Copyright © 2016 - <?php echo date('Y');?> - Designed by  <a href="https://lzomedia.com">The Web Development Company</a></p>
+            <p class="cl-white">Copyright © 2016 - <?php echo date('Y');?> - Designed by  <a href="https://lzomedia.com" title="web development company">The Web Development Company</a></p>
         </div>
     </div>
 </footer>
