@@ -89,7 +89,7 @@
                                 <a target="_blank" href="https://freestuffzy.com">Free Stuff UK</a>
                             </li>
                             <li>
-                                <a target="_blank" href="https://play.google.com/store/apps/details?id=app.bmwtutorials.com">Bmw Tutorials App</a>
+                                <a target="_blank" href="https://play.google.com/store/apps/details?id=app.bmwtutorials.com">Bmw Tutorials</a>
                             </li>
                             <li>
                                 <a target="_blank" href="https://play.google.com/store/apps/details?id=app.freestufzy.com">Free Stuff App</a>
