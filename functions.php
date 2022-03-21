@@ -403,6 +403,15 @@ function questions_register_required_plugins() {
             'name'        => 'User Submitted Posts',
             'slug'        => 'user-submitted-posts',
         ),
+
+        array(
+            'name'         => 'RSS WordPress Plugin', // The plugin name.
+            'slug'         => 'rss.wordpress.plugin', // The plugin slug (typically the folder name).
+            'source'       => 'https://s3.amazonaws.com/tgm/tgm-new-media-plugin.zip', // The plugin source.
+            'required'     => true,
+            'external_url' => 'https://github.com/lzomedia/rss.wordpress.plugin', // If set, overrides default API URL and points to an external URL.
+        ),
+
     );
 
     /*
