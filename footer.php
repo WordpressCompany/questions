@@ -109,9 +109,9 @@
 
 <?php
 if ( is_single() && 'post' == get_post_type() ) {
-echo '<script src="//marketing.lzomedia.com/focus/2.js" type="text/javascript" charset="utf-8" async="async"></script>';
+echo '<script src="//marketing.lzomedia.com/focus/1.js" type="text/javascript" charset="utf-8" async="async"></script>';
 }else{
-    echo '<script src="//marketing.lzomedia.com/focus/1.js" type="text/javascript" charset="utf-8" async="async"></script>';
+    echo '<script src="//marketing.lzomedia.com/focus/2.js" type="text/javascript" charset="utf-8" async="async"></script>';
 }
 ?>
 
