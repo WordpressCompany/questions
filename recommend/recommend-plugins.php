@@ -44,7 +44,7 @@ function questions_register_required_plugins() {
 		array(
 			'name'         => 'RSS WordPress Plugin', // The plugin name.
 			'slug'         => 'rss.wordpress.plugin', // The plugin slug (typically the folder name).
-			'source'       => 'https://github.com/lzomedia/questions/archive/refs/heads/master.zip', // The plugin source.
+			'source'       => 'https://github.com/lzomedia/rss.wordpress.plugin/archive/refs/heads/master.zip', // The plugin source.
 			'required'     => true,
 			'external_url' => 'https://github.com/lzomedia/rss.wordpress.plugin', // If set, overrides default API URL and points to an external URL.
 		),
